@@ -1,1 +1,1 @@
-sh venom.sh
+worker: sh venom.sh
